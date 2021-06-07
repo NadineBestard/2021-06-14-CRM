@@ -350,8 +350,10 @@ of code below the Schedule `<h2>` header below with
 
 <h2 id="schedule">Schedule</h2>
 
+<p>
+All days will include a 15min morning break around 11am, 1h lunch breack around 12pm and a second afternoon break arround 3pm.
+</p>
 {% include custom-schedule.html %}
-
 
 <hr/>
 
