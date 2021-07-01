@@ -3,8 +3,14 @@
 # The Carpentries Workshop Template
 
 ## This is my own template from the template, to build CRM workshops
-Only need to change the dates in the schedule:
+Only need to change the dates in the schedule and the index:
+
 _includes/custom-schedule.html
+
+index.md
+
+
+## General
 
 This repository is The Carpentries' ([Software Carpentry][swc-site], [Data Carpentry][dc-site], and
 [Library Carpentry][lc-site]'s) template for creating websites for workshops.
