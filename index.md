@@ -386,6 +386,14 @@ please preview your site before committing, and make sure to run
   In addition, you will need an up-to-date web browser.
 </p>
 <p>
+  <ul>
+
+ <li>For the first two days: access to the UNIX command line. This is already available in Linux and Mac, but windows use a different command line by default, and therefore a bash shell needs to be installed. This can be downloaded with the [Git for windows installer](https://gitforwindows.org/). Other shells such as MobaXterm, Putty or Windows Subsystem for Linux are also available.</li>
+  
+ <li>From the third day we will need an updated version of [R](https://cloud.r-project.org/), that we will use with the [Rstudio](https://www.rstudio.com/) interface.</li>
+    </ul>
+</p>
+<p>
   We maintain a list of common issues that occur during installation as a reference for instructors
   that may be useful on the
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
