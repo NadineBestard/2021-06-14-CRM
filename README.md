@@ -3,11 +3,11 @@
 # The Carpentries Workshop Template
 
 ## This is my own template from the template, to build CRM workshops
-Only need to change the dates in the schedule:
+Only need to change the dates in the schedule (optional, now they are just like Day 1 etc):
 
 _includes/custom-schedule.html
 
-And the dates and the etherpad web in the index:
+And the dates, the etherpad web and the eventbtrite in the index:
 
 index.md
 
