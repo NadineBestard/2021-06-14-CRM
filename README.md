@@ -7,7 +7,7 @@ Only need to change the dates in the schedule (optional, now they are just like 
 
 _includes/custom-schedule.html
 
-And the dates, the etherpad web and the eventbtrite in the index:
+And the dates and place and the etherpad and eventbrite webs in the index:
 
 index.md
 
